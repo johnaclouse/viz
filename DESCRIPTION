@@ -1,0 +1,12 @@
+Package: viz
+Type: Package
+Title: Helper functions for plotting, themes, and color palettes
+Version: 0.1.0
+Author: John A. M. Clouse
+Maintainer: The package maintainer <johnaclouse@gmail.com>
+Depends: GGally, ggplot2, magrittr, rlang, tidyverse
+Description: A collection of useful helper functions to assist with visualization in R.
+License: Apache License 2.0 | file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 6.1.1

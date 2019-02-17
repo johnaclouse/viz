@@ -10,6 +10,7 @@
 #' @param color column name to use for color aesthetic in pair plots
 #' @param density_alpha alpha setting for frequency density plots
 #' 
+#' Original code by Matt Dancho DS4B 201
 #' @return ggplot object containing pairwise comparisons
 #' @export
 #'

@@ -11,7 +11,9 @@ plot_ggpairs(data, color = NULL, density_alpha = 0.5)
 
 \item{color}{column name to use for color aesthetic in pair plots}
 
-\item{density_alpha}{alpha setting for frequency density plots}
+\item{density_alpha}{alpha setting for frequency density plots
+
+Original code by Matt Dancho DS4B 201}
 }
 \value{
 ggplot object containing pairwise comparisons

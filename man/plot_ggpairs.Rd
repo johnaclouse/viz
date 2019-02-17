@@ -2,7 +2,7 @@
 % Please edit documentation in R/plot_ggpairs.R
 \name{plot_ggpairs}
 \alias{plot_ggpairs}
-\title{Helper function for ggally::ggpairs}
+\title{Helper function for GGally::ggpairs}
 \usage{
 plot_ggpairs(data, color = NULL, density_alpha = 0.5)
 }
@@ -17,7 +17,7 @@ plot_ggpairs(data, color = NULL, density_alpha = 0.5)
 ggplot object containing pairwise comparisons
 }
 \description{
-Helper function for ggally::ggpairs
+Helper function for GGally::ggpairs
 }
 \examples{
 plot_ggpairs(iris)
